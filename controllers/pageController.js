@@ -63,8 +63,8 @@ exports.sendEmail = async (req, res) => {
       port: 465,
       secure: true,
       auth: {
-        user: 'bugrahanoz061@gmail.com',
-        pass: 'okmpscygqerwrbfb',
+        user: '',
+        pass: '',
       },
     });
 
